@@ -1,0 +1,11 @@
+#dish2{
+    width: 200px;
+    height: 200px;
+}
+#cart{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-gap: 20px;
+    width: 90%;
+    margin: auto;
+}
